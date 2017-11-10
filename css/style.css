@@ -21,5 +21,20 @@ img.card-img-top{
   width: 64px;
   font-size: 4em;
   margin-top: .5em;
-  
+}
+
+footer{
+  font-size: 13px;
+  background: black;
+}
+
+.hr-footer{
+  border-bottom: solid;
+  border-top: none;
+  border-color: green;
+  border-width: 1px;
+}
+.copyright{
+  font-style: italic;
+  font-size: 10px
 }
